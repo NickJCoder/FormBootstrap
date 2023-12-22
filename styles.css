@@ -1,0 +1,26 @@
+.container-title {
+    width: 100%;
+}
+
+
+
+.form-check-input {
+    margin-top: 6px;
+    height: 12px;
+    width: 12px;
+}
+
+.form-check-label {
+    font-size: 16px;
+}
+
+.card-borders {
+    border-radius: 6px;
+    min-width: 250px;
+}
+
+
+
+
+
+
