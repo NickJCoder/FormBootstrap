@@ -15,10 +15,13 @@
 }
 
 .card-borders {
-    border-radius: 6px;
+    border-radius: 20px;
     min-width: 250px;
 }
 
+.card-text-start {
+    border-radius: 0px;
+}
 
 
 
